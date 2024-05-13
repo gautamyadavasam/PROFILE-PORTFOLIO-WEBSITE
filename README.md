@@ -1,44 +1,52 @@
+# Web Design Mastery - Personal Portfolio Page 💻
 
-Web Design Mastery - Personal Portfolio Page 💻
-Welcome to the Web Design Mastery project! This repository showcases a personal portfolio website developed by Gautam, a skilled Fullstack Developer. This README provides an overview of the project structure, technologies used, and how to set it up locally.
+Welcome to the **Web Design Mastery** project! This repository showcases a personal portfolio website developed by Gautam, a skilled Fullstack Developer. This README provides an overview of the project structure, technologies used, and how to set it up locally.
 
-Table of Contents 📚
-About the Project
-Technologies Used
-Getting Started
-Usage
-Contributing
-License
-About the Project ℹ️
+## Table of Contents 📚
+
+- [About the Project](#about-the-project)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About the Project ℹ️
+
 This project is a personal portfolio website created by Gautam, a Fullstack Developer. The website is designed to showcase Gautam's skills, experience, and projects. It features sections such as:
 
-Header: Introduction to Gautam with a call-to-action button.
-About: Details about Gautam's skills and expertise.
-Services: Overview of the services offered by Gautam.
-Portfolio: Showcase of Gautam's latest projects.
-Contact: Contact form and information to reach Gautam.
+- **Header:** Introduction to Gautam with a call-to-action button.
+- **About:** Details about Gautam's skills and expertise.
+- **Services:** Overview of the services offered by Gautam.
+- **Portfolio:** Showcase of Gautam's latest projects.
+- **Contact:** Contact form and information to reach Gautam.
+
 The project is built using HTML, CSS, and JavaScript for the frontend, while the backend is powered by Node.js and MySQL database for handling form submissions.
 
-Technologies Used 🛠️
-Frontend:
+## Technologies Used 🛠️
 
-HTML
-CSS (with Poppins font)
-JavaScript
-Backend:
+- **Frontend:**
+  - HTML
+  - CSS (with Poppins font)
+  - JavaScript
 
-Node.js
-Express.js
-MySQL
-Getting Started 🚀
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MySQL
+
+## Getting Started 🚀
+
 To get a local copy up and running follow these simple steps.
 
-Clone the repository:
+1. **Clone the repository:**
 
-bash
-Copy code
-git clone https://github.com/<username>/web-design-mastery.git
-Install dependencies:
+   ```bash
+   git clone https://github.com/<username>/web-design-mastery.git
+
+   <BR>
+
+   Install dependencies:
 
 bash
 Copy code
@@ -75,3 +83,5 @@ License 📝
 Distributed under the MIT License. See LICENSE for more information.
 
 Feel free to reach out with any questions, feedback, or suggestions! Let's make this portfolio project even better together. 🚀
+
+
